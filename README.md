@@ -1,18 +1,20 @@
 # Perfect front repo 2023
 
-## Technos & Libaries
+## Technos & libraries
 
-#### Next.js
+### Next.js
 
 Why : SSR rendering for better performance and SEO (and React itself recommends switching to Next.js)
 
 
-#### typescript
+
+### typescript
 
 Why : of course
 
 
-#### styled component
+
+### styled component
 
 Why : The fashion is tailwind css, but styled component remains the best option: 
 
@@ -25,9 +27,11 @@ But rather <Text> (clean)
 - Allows you to wrap component libraries, for example to switch easily from ant-design to Material UI (SOLID be like) 
 
 
-#### Material UI
+
+### Material UI
 
 Why : Well designed and well maintained
+
 
 
 #### RTK & RTK query
@@ -35,9 +39,11 @@ Why : Well designed and well maintained
 Why : Even if it's not easy to use at first, it's still a good option for managing query caches and global variables.
 
 
-#### jest & testing-library
+
+### jest & testing-library
 
 Why : even if I find them full of flaws, it remains the best library for unit testing. 
+
 
 
 #### eslint / prettier / husky
