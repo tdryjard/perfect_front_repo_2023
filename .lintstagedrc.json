@@ -1,0 +1,6 @@
+{
+  "*.js": "eslint --cache --fix",
+  "*.ts": ["eslint --cache --fix", "jest --bail --findRelatedTests"],
+  "*.tsx": ["eslint --cache --fix", "jest --bail --findRelatedTests"],
+  "*.{js,css,md,ts,tsx}": "prettier --write"
+}
